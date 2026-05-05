@@ -1,0 +1,45 @@
+@media (max-width: 767px){
+  
+}
+main{
+  height: 100vh;
+  width: 100%;
+  background: #8765;
+}
+h2{
+  margin-top: 10%;
+  margin-right: 45%;
+}
+.login{
+  margin-top: 4%;
+  background: #4896;
+}
+.senha{
+  margin-top: 4%;
+  background: #7265;
+}
+input{
+  height: 30px;
+}
+p{
+  margin-right: 27%;
+  font-weight: bold;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.esq{
+  background: none;
+    border: none;
+    padding: 0;
+    color: blue; 
+    cursor: pointer; 
+    font-size: inherit; 
+    text-decoration: underline;
+    margin-left: 35%;
+    margin-right: 28%;
+}
+.ent{
+margin-top: 10%;
+margin-left:6%;
+width: 100px;
+height: 3vh;
+}
